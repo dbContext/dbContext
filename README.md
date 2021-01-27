@@ -1,5 +1,3 @@
-<img src="https://joec.xyz/Content/joec.png" align="right" width="33%" />
-
 ### Hello, I'm Joe 👋
 
 ### I'm a full stack C# software developer, and do a little app development on the side.
