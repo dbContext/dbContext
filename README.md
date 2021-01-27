@@ -4,7 +4,9 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=dbContext&show_icons=true&theme=dracula&count_private=true)
+![dbContext's github stats](https://github-readme-stats.vercel.app/api?username=dbContext&show_icons=true&theme=dracula&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbContext&layout=compact&theme=dracula&count_private=true)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿s
 
