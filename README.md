@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://joec.xyz/Content/joec.png" align="right" width="33%" />
 
-<!--
-**dbContext/dbContext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Joe 👋
 
-Here are some ideas to get you started:
+I'm a full stack C# software developer, and do a little app development on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 𝗦𝘁𝗮𝘁𝘀
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=dbContext&show_icons=true&theme=dracula)
+
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿s
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dbContext.dbContext)
