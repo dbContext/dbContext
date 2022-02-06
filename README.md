@@ -1,6 +1,6 @@
 ### Hello, I'm Joe 👋
 
-### I'm a full stack C# software developer, and do a little app development on the side.
+### I'm a full stack C# software developer.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
